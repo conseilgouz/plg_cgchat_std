@@ -1,0 +1,38 @@
+<changelogs>
+	<changelog>
+		<element>iso</element>
+		<type>plugin</type>
+		<group>cgisotope</group>
+		<version>2.0.2</version>
+        <note>
+            <item>08/10/2023</item>
+        </note>
+        <addition>
+            <item>Add dynamic version fom manifest file</item>
+        </addition>
+	</changelog>
+	<changelog>
+		<element>iso</element>
+		<type>plugin</type>
+		<group>cgisotope</group>
+		<version>2.0.1</version>
+        <note>
+            <item>08/10/2023</item>
+        </note>
+        <fix>
+            <item>fix tests issues</item>
+        </fix>
+	</changelog>
+	<changelog>
+		<element>iso</element>
+		<type>plugin</type>
+		<group>cgisotope</group>
+		<version>2.0.0</version>
+        <note>
+            <item>08/10/2023</item>
+        </note>
+        <change>
+            <item>Refactoring as a service provider</item>
+        </change>
+	</changelog>
+</changelogs>
