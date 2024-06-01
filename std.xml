@@ -7,7 +7,7 @@
 	<authorUrl>www.conseilgouz.com</authorUrl>
 	<copyright>ConseilGouz</copyright>
 	<license>GNU/GPL</license>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<description>PLG_CGCHAT_STD_DESCRIPTION</description>
 	<namespace path="src">ConseilGouz\Plugin\Cgchat\Std</namespace>
 	<scriptfile>script.php</scriptfile>
@@ -29,7 +29,7 @@
 		</fieldset>
 	</fields>
 	</config>
-	<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_cgchat_std_j4/master/std_changelog.xml</changelogurl>
+	<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_cgchat_std/master/plg_cgchat_std_changelog.xml</changelogurl>
 	<updateservers>
 		<server type="extension" name="plg_cgisotope_iso" priority="1">https://raw.githubusercontent.com/conseilgouz/updates_github/master/plg_cgchat_std_update.xml</server>
 	</updateservers>

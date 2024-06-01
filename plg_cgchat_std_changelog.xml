@@ -1,38 +1,26 @@
 <changelogs>
 	<changelog>
-		<element>iso</element>
+		<element>std</element>
 		<type>plugin</type>
-		<group>cgisotope</group>
-		<version>2.0.2</version>
+		<group>cgchat</group>
+		<version>1.0.1</version>
         <note>
-            <item>08/10/2023</item>
-        </note>
-        <addition>
-            <item>Add dynamic version fom manifest file</item>
-        </addition>
-	</changelog>
-	<changelog>
-		<element>iso</element>
-		<type>plugin</type>
-		<group>cgisotope</group>
-		<version>2.0.1</version>
-        <note>
-            <item>08/10/2023</item>
+            <item>01/06/2024</item>
         </note>
         <fix>
-            <item>fix tests issues</item>
+            <item>Changelog url</item>
         </fix>
 	</changelog>
 	<changelog>
-		<element>iso</element>
+		<element>std</element>
 		<type>plugin</type>
-		<group>cgisotope</group>
-		<version>2.0.0</version>
+		<group>cgchat</group>
+		<version>1.0.0</version>
         <note>
-            <item>08/10/2023</item>
+            <item>01/06/2024</item>
         </note>
-        <change>
-            <item>Refactoring as a service provider</item>
-        </change>
+        <addition>
+            <item>New plugin</item>
+        </addition>
 	</changelog>
 </changelogs>
