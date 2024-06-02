@@ -3,6 +3,18 @@
 		<element>std</element>
 		<type>plugin</type>
 		<group>cgchat</group>
+		<version>1.0.2</version>
+        <note>
+            <item>02/06/2024</item>
+        </note>
+        <fix>
+            <item>Wrong update server name</item>
+        </fix>
+	</changelog>
+	<changelog>
+		<element>std</element>
+		<type>plugin</type>
+		<group>cgchat</group>
 		<version>1.0.1</version>
         <note>
             <item>01/06/2024</item>
